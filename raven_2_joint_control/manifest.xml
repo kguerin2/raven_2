@@ -1,0 +1,16 @@
+<package>
+  <description brief="raven_2_joint_control">
+
+     raven_2_joint_control
+
+  </description>
+  <author>Kel Guerin</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/raven_2_joint_control</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+
+</package>
+
+
